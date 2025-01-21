@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "oop-exam v2/1.0.0": {
+        "runtime": {
+          "oop-exam v2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "oop-exam v2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
